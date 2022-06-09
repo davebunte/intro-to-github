@@ -18,11 +18,11 @@ _Create a GitHub Action and use it in a workflow._
   Do not use quotes on the <details> tag attributes.
 -->
 
-<!--step0
+<!--step0-->
 
 Automation is key for streamlining your work processes, and [GitHub Actions](https://docs.github.com/actions) is the best way to supercharge your workflow.
 
-- **Who is this for**: Developers, DevOps engineers, students, managers, teams, GitHub users and Dave.
+- **Who is this for**: Developers, DevOps engineers, students, managers, teams, GitHub users.
 - **What you'll learn**: Create workflow files, trigger workflows, find workflow logs.
 - **What you'll build**: An Actions workflow that will check emoji shortcode references in Markdown files.
 - **Prerequisites**: In this course you will work with issues and pull requests, as well as edit files. We recommend you take the [Introduction to GitHub](/skills/introduction-to-github) course first!
@@ -34,11 +34,11 @@ Automation is key for streamlining your work processes, and [GitHub Actions](htt
    ![Use this template](https://user-images.githubusercontent.com/1221423/169618716-fb17528d-f332-4fc5-a11a-eaa23562665e.png)
 2. In the new tab, follow the prompts to create a new repository.
    - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository-private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
+   - We recommend creating a public repository—private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
    ![Create a new repository](https://user-images.githubusercontent.com/1221423/169618722-406dc508-add4-4074-83f0-c7a7ad87f6f3.png)
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
-endstep0-->
+<!--endstep0-->
 
 <!--
   <<< Author notes: Step 1 >>>
@@ -214,7 +214,7 @@ This action will run any time a new commit is created or pushed to the remote re
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X open>
+<details id=X>
 <summary><h2>Finish</h2></summary>
 
 _Congratulations friend, you've completed this course!_
